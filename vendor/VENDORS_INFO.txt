@@ -1,0 +1,28 @@
+version used for vendor code
+
+jQuery Validation
+=================
+version used for this project is
+jquery-validation-1.19.0
+
+jQuery UI + theme
+=================
+version used for this project is
+jquery-ui-1.12.1.ui-lightness
+
+jQuery
+============
+version used for this project is
+jquery-3.4.1.min.js
+
+FullCalendar
+============
+
+version used for this project is
+fullcalendar-scheduler-4.1.0
+
+(Note)
+During the free trial, in order to hide the license warning, use the following key:
+var calendar = new Calendar(calendarEl, {
+  schedulerLicenseKey: 'GPL-My-Project-Is-Open-Source'
+});
